@@ -1,0 +1,24 @@
+.header {
+    margin-bottom: 40px;
+}
+.header h2 {
+    margin-bottom: 0;
+}
+.book-wrapper {
+    display: flex;
+    gap: 20px;
+}
+.bw-image {
+    width: 15%;
+    height: 100%;
+}
+.bw-image img {
+    width: 100%;
+}
+.one-book {
+    margin-top: 30px;
+}
+.option-wrapper {
+    display: flex;
+    gap: 20px;
+}
